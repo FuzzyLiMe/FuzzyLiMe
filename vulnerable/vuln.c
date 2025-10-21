@@ -1,6 +1,6 @@
 /*
- * gcc tmp.c -o a.out
- * ./a.out aa %c%c
+ * gcc vuln.c -o vuln
+ * ./vuln aa %c%c
 */
 
 #include <stdio.h>
